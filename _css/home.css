@@ -1,0 +1,197 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    background-image: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-333472.png);
+    background-size: cover;
+    background-position: 0px 70px;
+    background-repeat: no-repeat;
+    
+   
+    
+    
+    
+}
+
+.nav {
+    background-color: #ffffff;
+    color: #000000;
+    list-style: none;
+    text-align: center;
+    padding: 20px 0 0 0;
+    height: 20px;
+    border-bottom-color: black;
+    border: 10px;
+    
+}
+
+
+.nav > li {
+    display: inline-block;
+    padding: 0 10px 0 10px;
+    font-size: 20px;
+    position:static;
+    margin-top: -10px;
+   
+    
+
+}
+
+.nav > li > a { 
+text-decoration: none;
+    color: #000000;
+
+
+}
+
+.nav > li > a:hover {
+    
+    color: #CD0000;
+    
+}
+
+.logo {
+    color: #000000;
+    float: left;
+    padding-left: 10px;;
+    margin-top: -25px;
+   
+    
+}
+
+.logo > a {
+    text-decoration: none;
+    color: #000000;
+    
+}
+
+
+
+.service1 {
+    width: 298px;
+    border: 1px solid #696969;
+    margin: 20px 10px;
+    float: left;
+    padding: 0 5px;
+}
+
+.service1 > p {
+    font-size: 14px;
+    color: #696969;
+    max-width: 250px;
+}
+
+.services {
+    width: 1333px;
+    margin: 0 auto;
+
+    
+    
+    
+}
+
+h1 {
+    font-size: 18px;
+    background-color: #696969;
+    color: darkorange;
+    padding: 10px 0;
+    margin: 0 -6px;
+}
+
+.image {
+    max-width: 200px;
+    margin: 15px 0 0 0;
+}
+
+.heading {
+    text-align: center;
+    font-size: 25px;
+    color: #000000;;
+    margin: 55px 0 50px 0;
+    
+}
+
+.image:hover {
+    
+    opacity: 0.2;
+    max-width: 200px;
+    margin-top: 15px;
+    
+}
+
+
+.footerlol{
+    
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 8%;
+    background-color: #ffffff;
+    text-align: center;
+
+}
+
+.btn{
+    
+    border:1px solid orangered;
+    padding: 10px 30px;
+    color: orangered;
+    text-decoration: none;
+    border-radius: 12px;
+    margin-right: 10px;
+}
+
+.button-awesome{
+    
+    margin-top: 30px;
+}
+
+.btn-half{
+    background-color:orangered;
+    color:white;
+}
+
+.btn-full{
+    background-color:orangered;
+    color:white;
+    
+}
+
+.btn-full:hover{
+    background-color:darkorange;
+    color:white;
+    transition:all 0.5s ease-in;
+    
+    
+}
+
+.btn-half:hover{
+    background-color:darkorange;
+    color:white;
+    transition:all 0.5s ease-in;
+    
+}
+
+
+.gero{
+    position: absolute;
+    width: 40%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    margin-top: -8%;
+    clear: both;
+    margin-left: -25%;
+}
+
+h3{
+
+font-family: 'Monoton', cursive;
+font-family: 'Black Ops One', cursive;
+color: whitesmoke;
+font-size: 40px;
+color: orange;
+    font-weight:normal;
+
+    
+}
